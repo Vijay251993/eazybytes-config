@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related PROD APIs"
   contactDetails:
     name: "Atul Gupta - Developer"
-    email: "atul@gmail.com"
+    email: "{cipher}a38b982e1d519e9eaa880050abd721c9bb31311b07f69e98dfdff2f783cdf8ab"
   onCallSupport:
     - (555) 555-1234
     - (555) 555-1345
